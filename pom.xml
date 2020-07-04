@@ -8,5 +8,15 @@
     <artifactId>luban-jvm-research</artifactId>
     <version>1.0.0</version>
 
+    <dependencies>
+
+        <!-- https://mvnrepository.com/artifact/org.openjdk.jol/jol-core -->
+        <dependency>
+            <groupId>org.openjdk.jol</groupId>
+            <artifactId>jol-core</artifactId>
+            <version>0.10</version>
+        </dependency>
+
+    </dependencies>
 
 </project>
